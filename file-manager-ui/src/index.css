@@ -1,0 +1,24 @@
+.conatiner{
+  display: flex;
+  width: 900px;
+  margin: auto;
+  margin-top: 30px;
+  flex-direction: column;
+}
+
+.header-container{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background: aliceblue;
+}
+
+.data-conatiner{
+  margin-top: 30px;
+  padding: 20px;
+}
+
+.sui-error-message{
+  color: #9f3a38;
+  font-weight: 400;
+}

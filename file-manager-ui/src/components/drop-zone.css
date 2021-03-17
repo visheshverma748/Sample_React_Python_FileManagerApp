@@ -1,0 +1,5 @@
+.dropzone {
+    border: 2px solid black;
+    box-shadow: none;
+    cursor: copy;
+  }
